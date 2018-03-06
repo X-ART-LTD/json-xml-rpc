@@ -3,7 +3,11 @@ JavaScript JSON/XML-RPC Client Implementations
 
 ## Getting Started
 
-Include <script type="text/javascript" src="rpc.js"></script> in your HTML body section.
+Include
+```
+<script type="text/javascript" src="rpc.js"></script>
+```
+in your HTML body section.
 
 ## Usage examples
 
